@@ -1,0 +1,18 @@
+{
+  "uuid": "4fc538a4-995b-45da-8976-7b4ebeda5e45",
+  "shortName": "Nearby Specials",
+  "longName": "Nearby Specials",
+  "companyName": "leejaew",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  },
+  "capabilities": [ "location" ]
+}
