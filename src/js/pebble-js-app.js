@@ -17,7 +17,7 @@ function successCallback(position) {
 }
 
 function getPlacesData(latitude, longitude) {
-	var queryString = "https://api.foursquare.com/v2/venues/search?ll=" + latitude + "," + longitude + "&limit=1&&client_id=OF3EV2ITEIATHGZENKA4FN1T4MHGZHYMV2QBXEQNFQNKHDF1&client_secret=DJPPRVPLHP0KWRINZAVUPTNVM4H5EULQC40ZRQFPDHVW0P1S&v=20131016";
+	var queryString = "https://api.foursquare.com/v2/venues/search?ll=" + latitude + "," + longitude + "&limit=1&&client_id=YOUR_CLIENT_KEY&client_secret=YOUR_SECRET_KEY&v=20131016";
 	console.log("queryString: " + queryString);
 
 	var req = new XMLHttpRequest();

@@ -2,7 +2,7 @@ Nearby Specials
 ---------------
 
 - Pebble Watchapp
-- Nearby Specials is a Pebble watchapp that helps the user be aware of special offers provided by the nearest foursquare venue nearest from the user's current location.
+- Nearby Specials is a Pebble watchapp that helps the user be aware of special offers provided by the nearest foursquare venue.
 
 
 Screenshots
